@@ -3,4 +3,4 @@ kind: GitRepository
 metadata:
    namespace: flux-test
 spec:
-   url: "ssh://git@github.com:vinayreddy05/{{ new_repo_name }}.git"
+   url: "ssh://git@github.com:vinayreddy05/Flask-App870.git"
